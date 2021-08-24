@@ -15,21 +15,14 @@ A simple calculator app built with Flutter
 
 ## Art
 
-<img src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/tasky.png?raw=true" width="100%"  height="50%"/>
+<img src="https://www.uplabs.com/posts/calculator-59c590e7-09b0-4f41-a6e4-13a28e2be9c0" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_1.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_2.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/1.png?raw=true" width="200" height="400"/></td>
+
 </tr>
-<tr>
-    <td><img align="left" src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_3.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_4.png?raw=true" width="200" height="400"/></td> 
-</tr>
-<tr>
-    <td><img align="left" src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_5.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/screenshot_6.png?raw=true" width="200" height="400"/></td> 
-</tr>
+
 
 ## Getting Started
 
