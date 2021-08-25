@@ -15,11 +15,11 @@ A simple calculator app built with Flutter
 
 ## Art
 
-<img src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/preview-2.jpg?raw=true" width="100%"  height="50%"/>
+<img src="https://raw.githubusercontent.com/RegNex/SimpleCalculatorApp/main/screenshots/preview-2.jpg" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/SimpleCalculatorApp/blob/main/screenshots/1.png?raw=true" width="200" height="400"/></td>
+    <td><img align="left" src="https://raw.githubusercontent.com/RegNex/SimpleCalculatorApp/main/screenshots/1.png" width="200" height="400"/></td>
 </tr>
 <br>
 
